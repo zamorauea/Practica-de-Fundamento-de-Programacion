@@ -1,4 +1,4 @@
-# Practica-de-Fundamento-de-Programacion
+# Estructura_Datos2425
 Esta dedicado a almacenar las prácticas realizadas durante el curso de Fundamentos de Programación
 Universidad Estatal Amazonia
 
